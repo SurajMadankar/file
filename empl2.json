@@ -1,0 +1,39 @@
+{
+    "Employees" : [
+    {
+    "NAME":"Romin Irani",
+    "DOB":"09/01/1999",
+    "HEIGHT":"5.1 FEET",
+    "CITY":"PUNE",
+    "STATE":"MAHARASHTRA"
+    },
+    {
+    "NAME":"Pravin Irani",
+    "DOB":"09/01/1998",
+    "HEIGHT":"5 FEET",
+    "CITY":"MUMBAI",
+    "STATE":"MAHARASHTRA"
+    },
+    {
+    "NAME":"Aamin Irani",
+    "DOB":"09/01/2000",
+    "HEIGHT":"5.2 FEET",
+    "CITY":"KALYAN",
+    "STATE":"MAHARASHTRA"
+    }, 
+    {
+    "NAME":"Shoheb Irani",
+    "DOB":"09/01/1996",
+    "HEIGHT":"5 FEET",
+    "CITY":"THANE",
+    "STATE":"MAHARASHTRA"
+    },
+    {
+    "NAME":"Umakant Irani",
+    "DOB":"09/01/1998",
+    "HEIGHT":"5 FEET",
+    "CITY":"NAGPUR",
+    "STATE":"MAHARASHTRA"
+    }
+    ]
+    }
